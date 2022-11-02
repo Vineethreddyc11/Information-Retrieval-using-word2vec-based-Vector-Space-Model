@@ -1,6 +1,7 @@
 # Information-Retrieval-using-word2vec-based-Vector-Space-Model
 Performed information retrieval using Word2Vec based vector space model with 367k queries and 3.2M documents and performed pre-processing steps like converting text into lower case, expanding contractions, removing stop words, lemmatizing texts. 
 
+![information-retrieval-2-632c7ba46ffa3-sej-1520x800](https://user-images.githubusercontent.com/68578215/199520987-ac9f9f27-7d60-4572-8e1f-e91c376285c8.png)
 
 ## Information Retrival
 Information Retrieval is the process of finding desired documents from a collection of documents.
