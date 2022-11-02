@@ -18,3 +18,11 @@ For example, you go to an e-commerce website and search for an iPhone, and the w
 You see, in information retrieval problems, just returning relevant documents is not the task. Instead, you have to return the most relevant ones first, followed by less relevant documents. This is known as document ranking. There are multiple ways of ranking documents for a query, but in this article, we’ll only use the vector space model, which is an unsupervised method.
 
 <img width="867" alt="Screen Shot 2022-10-27 at 9 20 35 PM" src="https://user-images.githubusercontent.com/68578215/198501792-823c726e-294a-48b4-86cd-433624d0db44.png">
+
+### Data Description
+
+The Deep Learning Track is a new track for TREC 2019, with the goal of studying ad hoc ranking
+in a large data regime. It is the first track with large human-labeled training sets, introducing two
+sets corresponding to two tasks, each with rigorous TREC-style blind evaluation and reusable test
+sets. The document retrieval task has a corpus of 3.2 million documents with 367,000
+queries, for which we generate a reusable test set of 43 queries.
